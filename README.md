@@ -2,7 +2,8 @@
 A simple notification service with Email, SMS, and In-App support.
 
 ## How to Run
-
+To run this code user must edit the .env file as user need to provide their own smpt details and twilio details.
+Step to run after editing .env file 
 1. Clone the repository
    No extra efforts are require
 2. Install dependencies: eg. npm, mongodb etc
